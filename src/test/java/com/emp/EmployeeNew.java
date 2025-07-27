@@ -9,7 +9,7 @@ public class EmployeeNew
 		
 	public void name() {
 		System.out.println("vaishu");
-
+		System.out.print("newly added ");
 	}
 
 	public void address() {
