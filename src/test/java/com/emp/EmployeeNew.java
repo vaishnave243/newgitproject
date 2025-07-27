@@ -9,7 +9,8 @@ public class EmployeeNew
 		
 	public void name() {
 		System.out.println("vaishu");
-		System.out.print("newly added ");
+
+		
 	}
 
 	public void address() {
@@ -22,6 +23,9 @@ public class EmployeeNew
 
 	public void officeaddress() {
 		System.out.println("chennai");
+		System.out.print("newly added ");
+
+		System.out.println("added test1");
 	}
 
 }
