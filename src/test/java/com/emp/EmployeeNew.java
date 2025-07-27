@@ -9,7 +9,7 @@ public class EmployeeNew
 		
 	public void name() {
 		System.out.println("vaishu");
-
+		System.out.println("scripting 1 done for conflict");
 	}
 
 	public void address() {
